@@ -148,7 +148,6 @@ Claude Code 같은 에이전트로 작업한다면 [CLAUDE.md](CLAUDE.md)에 작
 
 **레퍼런스 노트**
 
-- [tiro-teardown](docs/refs/tiro-teardown.md): 섹션 구조, 스크립트 데모, 토큰, 로딩 함정
 - [homeflix-teardown](docs/refs/homeflix-teardown.md): 깔끔한 페이지에 시네마틱 장면 하나
 - [sddaddad-teardown](docs/refs/sddaddad-teardown.md): SVG 선 그리기와 `offset-path` 모션
 - [pasteup](docs/refs/pasteup.md): 콜라주 룩, 스톱모션 케이던스, DOM 조립
